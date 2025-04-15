@@ -13,7 +13,7 @@ import java.util.Scanner;
 import javax.swing.JOptionPane;
 
 
-public class ForFun{
+public class myFun{
     
    
     
