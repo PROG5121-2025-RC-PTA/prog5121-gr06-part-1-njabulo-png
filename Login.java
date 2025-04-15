@@ -6,7 +6,7 @@ package Assignment_1;
 
 /**
  *
- * @author khutso-pollen-masekwameng
+ * @author Njabulo-christopher-mngidi 
  */
 public class Login{
 	
